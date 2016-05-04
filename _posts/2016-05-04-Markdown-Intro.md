@@ -6,9 +6,8 @@ categories: Document
 tags: markdown
 ---
 
-## 欢迎使用 Cmd Markdown 编辑阅读器
-
-------
+* content
+{:toc}
 
 我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，**Cmd Markdown** 是我们给出的答案 —— 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown：
 
@@ -24,6 +23,8 @@ tags: markdown
 ### [Windows/Mac/Linux 全平台客户端](https://www.zybuluo.com/cmd/)
 
 > 请保留此份 Cmd Markdown 的欢迎稿兼使用说明，如需撰写新稿件，点击顶部工具栏右侧的 <i class="icon-file"></i> **新文稿** 或者使用快捷键 `Ctrl+Alt+N`。
+
+
 
 ------
 
