@@ -2,7 +2,7 @@
 layout: post
 title:  "欢迎使用 Cmd Markdown 编辑阅读器"
 date:   2016-05-04
-categories: Document
+categories: markdown
 tags: markdown
 ---
 
