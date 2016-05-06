@@ -22,7 +22,6 @@ tags: markdown
 
 ### [Windows/Mac/Linux 全平台客户端](https://www.zybuluo.com/cmd/)
 
-> 请保留此份 Cmd Markdown 的欢迎稿兼使用说明，如需撰写新稿件，点击顶部工具栏右侧的 <i class="icon-file"></i> **新文稿** 或者使用快捷键 `Ctrl+Alt+N`。
 
 
 
