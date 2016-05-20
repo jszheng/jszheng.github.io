@@ -16,9 +16,13 @@ categories: Hardware
 
 # Emphasis
 *This text will be italic*
+
 _This will also be italic_
+
 **This text will be bold**
+
 __This will also be bold__
+
 *You **can** combine them*
 
 
@@ -42,19 +46,26 @@ http://github.com - automatic!
 
 ## images
 ![GitHub Logo](/images/logo.png)
+
 Format: ![Alt Text](url)
 
 ## task
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
 - [x] this is a complete item
 - [ ] this is an incomplete item
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
 
 ## tables
-First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+
+|First Header     | Second Header    |
+|-----------------|------------------|
+|Content cell 1   | Content cell 2   |
+|Content column 1 | Content column 2 |
 
 ## EMOJI
 GitHub supports emoji!
@@ -64,6 +75,6 @@ GitHub supports emoji!
 ## code
 ```javascript
 function test() {
-console.log("look ma’, no spaces");
+    console.log("look ma’, no spaces");
 }
 ```
